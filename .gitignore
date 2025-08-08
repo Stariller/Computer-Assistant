@@ -1,0 +1,14 @@
+__pycache__/
+.cache/
+.cache/huggingface/
+*.py[cod]
+*.log
+*.tmp
+*.cache/
+.vscode/
+.idea/
+audio_transcription/vosk-model-small-en-us-0.15/
+audio_transcription/*.zip
+audio_transcription/*.wav
+*.wav
+*.mp3

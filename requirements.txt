@@ -1,0 +1,12 @@
+# Core
+numpy
+requests
+
+# Audio / STT / TTS
+sounddevice
+vosk
+TTS
+
+# Google ADK + GenAI SDK
+google-adk
+google-genai
